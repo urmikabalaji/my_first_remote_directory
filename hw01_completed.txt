@@ -1,0 +1,11 @@
+        . 
+       ,O,
+      ,OOO,
+'oooooOOOOOooooo'
+  `OOOOOOOOOOO`
+    `OOOOOOO`
+    OOOO'OOOO
+   OOO'   'OOO
+  O'         'O
+::::FINISHED!::::
+Hello World! This is my first vi.
